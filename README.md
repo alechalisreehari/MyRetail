@@ -13,7 +13,7 @@ For running this application in your local, you must have below tools installed 
 3) execute `docker-compose up`. This will start mongoDB instance.
 4)go to application folder `cd {user}/MyRetailApplication`
 5) execute `mvn clean install`
-6) execute `-java -jar myretail-0.0.1-SNAPSHOT.jar`
+6) execute `java -jar myretail-0.0.1-SNAPSHOT.jar`
 #### Swagger configuration
 http://localhost:9010/swagger
 
